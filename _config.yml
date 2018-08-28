@@ -1,11 +1,11 @@
 # Site settings
-author: stephenolson@gmail.com
-title: 
+author: Stephen Olson
+title: Stephen's Cool Coding Spot
 header-img: img/home-bg.png
 email: stephenolson@gmail.com
-copyright_name: stephenolson@gmail.com
+copyright_name: Stephen Olson
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Hanging Out and Learning To Code
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  stephenolson
