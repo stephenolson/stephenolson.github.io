@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "CLI Data Gem Portfolio Project"
-date:       2019-04-15 02:01:10 +0000
+date:       2019-04-14 22:01:11 -0400
 permalink:  cli_data_gem_portfolio_project
 ---
 
@@ -20,7 +20,7 @@ The Project's parameters are simple:
 2. the CLI provides access to data from a web page
 3. the data must go at least one level deep
 
-It was suggested we choose a subject we are passionate about, but I wanted to work with data thatfelt concrete. A list of things, and then another level deeper with information about those things. I choose to scrape the Billboard Hot 100. While I'm passionate about music, I can barely identify any of the songs on the chart. However the information is clear.
+It was suggested we choose a subject we are passionate about, but I wanted to work with data that felt concrete. A list of things, and then another level deeper with information about those things. I choose to scrape the Billboard Hot 100. While I'm passionate about music, I can barely identify any of the songs on the chart. However the information is clear.
 
 The songs on the chart have the following basic attributes: 
 
